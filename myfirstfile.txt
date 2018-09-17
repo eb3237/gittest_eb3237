@@ -1,8 +1,9 @@
-hi hihello world
+hi hi hello world
 whatever
-<<<<<<< HEAD
+
 this is gonna go wrong...
 this is gonna go wrong again...
-=======
+
 lets  make changes directly to the online version of the file online
->>>>>>> bd209764158d42ba24638629da44eb00c8f579cc
+
+FIXED file and some lines removed
